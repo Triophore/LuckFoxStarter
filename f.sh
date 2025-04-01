@@ -1,0 +1,1 @@
+sudo ./flash /dev/mmcblk0 /home/triophore/Documents/TRIOPHORE/LuckFox/SDK/luckfox-pico/output/image/
