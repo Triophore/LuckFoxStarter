@@ -10,4 +10,6 @@ sudo apt-get install -y \
     libncurses5-dev pkg-config bc python-is-python3 \
     passwd openssl openssh-server openssh-client \
     vim file cpio rsync \
-    screen
+    screen git
+
+git pull "$(pwd)/SDK/luckfox-pico/"
