@@ -1,0 +1,1 @@
+sudo ./flash /dev/mmcblk0 "$(pwd)/SDK/luckfox-pico/output/image/"

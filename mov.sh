@@ -1,1 +1,2 @@
-sudo cp /home/triophore/Documents/TRIOPHORE/LuckFox/blkenvflash /home/triophore/Documents/TRIOPHORE/LuckFox/SDK/luckfox-pico/output/image/blkenvflash
+#!/bin/bash
+sudo cp "$(pwd)/blkenvflash" "$(pwd)/SDK/luckfox-pico/output/image/blkenvflash"
